@@ -15,13 +15,14 @@ It demonstrates how multiple AI agents can collaborate to solve real-world tasks
 🛠️ Modular and extensible design<br>
 ⚡ Scalable for real-world applications<br>
 
-🧩 Example Use Cases<br>
+<h1>🧩 Example Use Cases</h1>
+<br>
 📊 Automated research assistant<br>
 ✍️ Content generation pipeline<br>
 📈 Data analysis workflows<br>
 🧠 Decision-making systems<br>
 
-🛠️ Tech Stack
+<h1>🛠️ Tech Stack</h1>
 Python<br>
 CrewAI<br>
 Ollama<br>
