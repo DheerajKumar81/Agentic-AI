@@ -1,4 +1,4 @@
-<h1>🤖 CrewAI Multi-Agent System</h1>
+<h1>🤖 CrewAI Email-Agent System</h1>
 <br>
 
 <h2>📌 Overview</h2>
